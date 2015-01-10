@@ -1,3 +1,6 @@
+# LabVIEW
+*.vi merge=labview diff=labview
+
 # Auto detect text files and perform LF normalization
 * text=auto
 
